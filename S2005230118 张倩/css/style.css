@@ -1,0 +1,121 @@
+body{
+    background-color: #fff;
+    padding: 0;
+    margin: 0;
+    font: 12px/1.5 Microsoft YaHei,Heiti SC,tahoma,arial,Hiragino Sans GB,"\5B8B\4F53",sans-serif;
+    font-style: normal;
+    font-variant-ligatures: normal;
+    font-variant-caps: normal;
+    font-variant-numeric: normal;
+    font-variant-east-asian: normal;
+    font-weight: normal;
+    font-stretch: normal;
+    font-size: 12px;
+    font-family: "Microsoft YaHei", "Heiti SC", tahoma, arial, "Hiragino Sans GB", 宋体, sans-serif;
+}
+.beijing{
+    height: 30px;
+    border-bottom: 1px solid #ddd;
+    background-color: #e3e4e5;
+}
+.limiang{
+    height: 30px;
+    line-height: 30px;
+    color: #999;
+    margin: auto;
+    width: 1190px;
+}
+.limiang img{
+    height: 30px;
+}
+.limiang a{
+    text-decoration: none;
+}
+.limiang span{
+    line-height: 30px;
+    position: absolute;
+    color: #666;
+}
+.wangye{
+    float: right;
+    padding: 0;
+    margin: 0;
+    line-height: 30px;
+    position: relative;
+}
+.wangye li{
+    float: left;
+    list-style: none;
+}
+.wangye a:hover{
+    color: #e33333;
+}
+.diyige{
+    margin-right: 8px;
+    color: #999;
+}
+.dierge{
+    color: #f10215;
+}
+.dier1{
+    padding-left: 7px;
+    padding-right: 7px;
+}
+.hui{
+    color: #999;
+}
+.disan:hover .coco{
+    display: block;
+}
+.dier2{
+    padding-left: 7px;
+    padding-right: 20px;
+    overflow: hidden;
+    position: relative;
+    float: left;
+    border: 1px solid #e3e4e5;
+}
+.tubiao{
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    width: 12px;
+    height: 12px;
+    line-height: 12px;
+    font-family: iconfon ,sans-serif;
+    font-style: normal;
+}
+.coco{
+    width: 280px;
+    position: absolute;
+    display: none;
+    top: 30px;
+    line-height: 24px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+.coco a{
+    color: #999;;
+}
+.yidiandian{
+    padding: 10px 0 10px 15px;
+    overflow: hidden;
+}
+.tainanle{
+    float: left;
+    width: 126px;
+}
+.xica{
+    border-top: 1px solid #f1f1f1; 
+}
+.wangye li.xian{
+    overflow: hidden;
+    margin: 11px 5px 0;
+    width: 1px;
+    height: 10px;
+    background-color: #ccc;
+}
+.lll{
+    width: 1536px;
+}
+
